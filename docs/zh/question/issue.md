@@ -1,0 +1,31 @@
+---
+title: 提交 Bug - PakePlus
+description: 在 GitHub 上提交 PakePlus 的 Bug 报告，获取社区帮助解决问题。
+---
+
+# Issue
+
+如果有难以解决的问题，又不好意思联系我们，可以提交 issue，提交内容请尽量详细。
+
+提交 issue 时，请按照以下格式填写：
+
+```md
+# 问题描述
+
+请描述问题的详细情况，包括：
+
+-   问题发生的环境
+-   问题发生的步骤
+-   问题的截图
+-   问题的日志
+
+# 解决办法(如果有)
+
+请描述解决问题的办法，包括：
+
+-   解决问题的步骤
+-   解决问题的截图
+-   解决问题的日志
+```
+
+issue 地址： [PakePlus Issue](https://github.com/Sjj1024/PakePlus/issues)
